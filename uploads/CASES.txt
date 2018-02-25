@@ -1,0 +1,14 @@
+For web:
+*filtering of who can only see the uploaded modules per professor
+*can't see the filtered general reports of attendance per subject/class
+	-all of the data of students with their results are shown in the "see attendance" even they're not in the same class
+*when editing a specific class, once edited the name of it isn't changing in the modules table
+
+For app:
+*can't proceed to the MainActivity after logging in
+*Class is faulty
+	-can't add another class
+	-Class->(specific class)->"see attendance"-> only one student was shown even if it has more than 1 student
+	-Class->(specific class)->"see attendance"->only one date was shown in the drop down menu
+	-Class->(specific class)->"edit class"->nothing happened once edited
+*automatic log out once 'back' was press
